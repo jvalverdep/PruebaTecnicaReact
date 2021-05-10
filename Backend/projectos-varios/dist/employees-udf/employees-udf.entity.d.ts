@@ -1,0 +1,33 @@
+export declare class EmployeeUDF {
+    id: number;
+    Employee_Name: string;
+    IMP_Unit: string;
+    Organizational_Unit: string;
+    Position_Text: string;
+    Company_Id: number;
+    Company: string;
+    Denom_Edif_MI: string;
+    MI_Direction: string;
+    MI_Provincia: string;
+    PostalCode: number;
+    Cost_Center: number;
+    Surname: string;
+    Second_Surname: string;
+    Name: string;
+    Mail: string;
+    Number_Jefe2: number;
+    Name_Jefe2: string;
+    Number_Jefe1: number;
+    Name_Jefe1: string;
+    Number_RespUnit: number;
+    Name_RespUnit: string;
+    Mail_RespUnit: string;
+    Number_DirectResp: number;
+    Name_DirectResp: string;
+    Last_Update_Date: string;
+    Fix_Phone: string;
+    Movil_Phone: string;
+    Movil_Extension: number;
+    Profile: string;
+    Process: string;
+}

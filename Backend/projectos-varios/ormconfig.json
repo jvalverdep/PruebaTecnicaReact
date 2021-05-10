@@ -1,0 +1,12 @@
+{
+  "type": "mysql",
+  "host": "shoppingreact.mysql.database.azure.com",
+  "port": 3306,
+  "username": "jsuarezs@shoppingreact",
+  "password": "julysuarez12$$",
+  "database": "jass",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true,
+  "logging": false,
+  "migrations": ["src/migration/**/*.ts"]
+}

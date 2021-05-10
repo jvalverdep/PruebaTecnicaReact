@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bdd68505-da52-4a6e-858e-5b1a14f5ed3a/resourceGroups/Jsuarezs/providers/Microsoft.Web/sites/tabolu",
+    "appService.deploySubpath": "."
+}
