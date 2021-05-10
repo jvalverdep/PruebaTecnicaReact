@@ -13,7 +13,7 @@ export class Product {
     Name: string;
 
     @ApiProperty()
-    @Column()
+     @Column({type:'varchar', length: 4294967295})
     imgProduct: string;
 
     @ApiProperty()

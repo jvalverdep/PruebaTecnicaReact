@@ -2406,7 +2406,7 @@
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f"
       },
       "../src/auth/auth.service.ts": {
-        "version": "82a94d18f24e12c509364049a1bab9b80a6bc43d2318573c9618174684fc7fc4",
+        "version": "f9a7e942f6499ffdd814f02a651ebc7f01d3249c786cd5b459eb3ac4b137cb7e",
         "signature": "1c01dbfada6698a8e3fdcb879bd8d04b39327900f082c216a89ced2acfd13f5b"
       },
       "../src/auth/jwt-auth.guard.ts": {
@@ -2470,7 +2470,7 @@
         "signature": "54eea2b1bf2590a01bc8d663dc70711b0126dcfd174e3e7b3647ddce2445eda1"
       },
       "../src/trademark/trademark.entity.ts": {
-        "version": "f2ffb38c3e1998b5a8b0ee7ca5a24be966bca57f3c952a4b21f9f1f857ec651d",
+        "version": "b14c6e3f17c812930f3d541f0b9a322fe2944bb462763f765ff5c2dddc6a992b",
         "signature": "20144e72407378218af4bc6b6e1d4455f9139219f6a5dab163a8b835ce07bd88"
       },
       "../src/category/category.entity.ts": {

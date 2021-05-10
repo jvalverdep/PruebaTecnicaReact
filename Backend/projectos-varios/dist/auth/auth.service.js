@@ -24,6 +24,7 @@ let AuthService = class AuthService {
         });
         if (app.length === 1) {
             const { key, ...result } = app[0];
+            console.log(result);
             return result;
         }
         return null;

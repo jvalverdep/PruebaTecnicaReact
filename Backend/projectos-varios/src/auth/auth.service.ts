@@ -15,8 +15,10 @@ export class AuthService {
       applicationName: applicationName,
       key: key,
     });
+    
     if (app.length === 1) {
       const { key, ...result } = app[0];
+      console.log(result);
       return result;
     }
     return null;

@@ -25,7 +25,7 @@ __decorate([
 ], Trademark.prototype, "Name", void 0);
 __decorate([
     swagger_1.ApiProperty(),
-    typeorm_1.Column(),
+    typeorm_1.Column({ type: 'varchar', length: 4294967295 }),
     __metadata("design:type", String)
 ], Trademark.prototype, "Logo", void 0);
 __decorate([

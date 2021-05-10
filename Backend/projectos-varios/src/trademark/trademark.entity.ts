@@ -13,7 +13,7 @@ export class Trademark {
     Name: string;
 
     @ApiProperty()
-    @Column()
+    @Column({type:'varchar', length: 4294967295})
     Logo: String;
 
     @ApiProperty()
